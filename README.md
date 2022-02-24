@@ -12,24 +12,26 @@ matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
 
 
 
-## Main Schematic
+## Schematic
+
+
+### Main Schematic
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/main_schematic.jpg" width="800">
 
 
+### Components
 
-## Components
 
-
-### Drag Force
+#### 1. Drag Force
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/drag_force.jpg" width="800">
 
-#### Air Density
+##### 1.1 Air Density
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/air_density.jpg" width="800">
 
-### Weight
+#### 2. Weight
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/weight.jpg" width="800">
 
-### Thrust Force
+#### 3. Thrust Force
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/thrust_force.jpg" width="800">
 
 
