@@ -4,10 +4,21 @@ A Simulink project where you can simulate a 2-D rocket flight.
 
 
 
+## Run on terminal
+
+```sh
+matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
+```
+
+
+
 ## Main Schematic
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/main_schematic.jpg" width="800">
 
+
+
 ## Components
+
 
 ### Drag Force
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/drag_force.jpg" width="800">
@@ -20,14 +31,6 @@ A Simulink project where you can simulate a 2-D rocket flight.
 
 ### Thrust Force
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/thrust_force.jpg" width="800">
-
-
-
-## Run on terminal
-
-```sh
-matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
-```
 
 
 
