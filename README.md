@@ -1,6 +1,6 @@
 # rocket-flight-simulator
 
-A Simulink project where you can simulate the motion of a rocket during flight on 1-D. The project implements dynamic forces applied on the rocket (drag force, weight, and thrust force) by taking dynamic components into account such as rocket mass, gravitational acceleration, air drag, and air density (for different layers of the Earth's atmosphere). Then, the project plots the position-time, velocity-time, and acceleration-time graphs of the rocket.
+A Simulink project where you can accurately simulate the motion of a rocket during flight on one-dimensional space. The project implements dynamic forces applied on the rocket (drag force, weight, and thrust force) by taking dynamic components into account such as rocket mass, gravitational acceleration, air drag, and air density (for different layers of the Earth's atmosphere). Then, the project plots the position-time, velocity-time, and acceleration-time graphs of the rocket.
 
 
 
