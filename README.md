@@ -14,13 +14,12 @@ matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
 
 ## System
 
-
 ### Main Schematic
+
 <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/rocket-flight-simulator/main/Screenshots/main_schematic.jpg" width="800">
 
 
 ### Subsystems
-
 
 #### 1. Drag Force
 
