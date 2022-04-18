@@ -4,7 +4,7 @@ A Simulink project which can accurately simulate the motion of a flying rocket i
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 matlab -nodisplay -nosplash -nodesktop -r "run('param.m');exit;"
